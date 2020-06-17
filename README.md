@@ -1,6 +1,6 @@
 # Save the Cells
 
-**Save the Cells** is a WWDC 2020 Swift Student Challenge winner playground developed by Evgenii Truuts, a student at University of the People.
+**Save the Cells** is a WWDC 2020 Swift Student Challenge winner interactive scene in a Swift playground developed by Evgenii Truuts, a student at University of the People.
 
 In this game, you have to help the cells find a way home. This game not only about fun, but it is also can help you to improve your memory.
 
@@ -19,5 +19,5 @@ It was my first and so exiting expirience in character developing during this st
 
 Sounds in this game were mastered in Apple Logic Pro X.
 
-
+This Swift playground must be built with and run on Swift Playgrounds 3.3 on macOS 10.15.4
 
