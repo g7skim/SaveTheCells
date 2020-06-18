@@ -19,4 +19,4 @@ I made all graphic assets for this game using https://www.figma.com It was my fi
 Sounds in this game were mastered in Apple Logic Pro X.
 
 This Swift playground must be built with and run on Swift Playgrounds 3.3 on macOS 10.15.4
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/nyORlZUlxgs/0.jpg)](https://www.youtube.com/watch?v=YOUTUBE_VIDEO_ID_HERE)
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/nyORlZUlxgs/0.jpg)](https://www.youtube.com/watch?v=nyORlZUlxgs)
